@@ -1,0 +1,349 @@
+Feb4th
+
+Feb6th
+Agile Bootcamp
+Overview of agile methodology
+Each and every aspects of agile methodology
+Agile backlog story grooming session
+Detailed discussion on each and every story and issues
+Assiging the issues of each story to work on
+
+Feb7th
+Continued sesssion on backlog story grooming
+PI Planning for that current sprint 
+Working on the assigned issue to plan the tasks
+Automated Challenger model issue
+Designing list of Machine learning model to build
+
+Feb8th
+Decided on the in-scope and out-of-scope items
+Discussion with Data scientist to understand the user story
+Understadning the issues and tasks based on the user story
+Prioratizing the tasks for the user story with Data scientist
+Splitting the tasks between the data scientist and myself
+Working on the tasks by creating a detail understanding document of the task
+
+Feb 11th
+Data cleaning and categorizing the data as data frame
+Feature engineering of the dataset as training dataset and test dataset
+Using numpy and pandas to identify the variation of the data
+Working on the data to remove the noises in the data
+
+Feb 12th
+Worked on automated machine learning alogorithm - Deep learning
+Deep learning - TPOT model implementation on the current dataset
+Used the TPOT algorithm to work on identifyng the best algorithm
+Produced best Machine learning algorithm has been used to work on the dataset
+
+Feb 13th
+Worked on to list the machine learning algorithm that it worked on before it finds the best algorithm
+Worked to produce the selective machine learning algorithm using TPOT
+Analysing that everytime does it produces the same algorithm in TPOT
+Working on other automated machine learning model which reproduces the same result
+
+Feb 14th
+Worked on the machine learning model to dynamically / manual selection of variable trends
+Worked on the reporting whether we can use the deep learning allgorthm for model validation
+Challenger models list was to add one of the deep learning model
+Decided to use binary classification model as challenger model for all binary targets
+
+Feb 15th
+Binary classification algorithm has been used to classify the data
+Binary target has been decided to work on the data
+Challenger model to validate any other binary classification machine learning model
+Worked with the variable selection on the automated machine learning algorithm
+
+Feb 18th
+Challenger model to generate scoring metrics to compare the scores of each machine learning model
+F1score, fittime, auc roc, recall are all listed for each machine learning model
+mean score has been taken for logistic regression, adaboosting, ensemble, svm, random forest.
+Created box plot based on each scores and mean values is also represented as yellow line in the middle
+
+Feb 19th
+Show case of the sprint planned with the issues solved
+Created a scoring metrics using the scikit learn 
+Researched on the automatic machine learning algorithm 
+Worked in the TPOT machine learning to understand its capabilty
+
+Feb 20th
+Next agile sprint planning for further issues
+Added issues on machine learning model ongoing monitoring
+Pusing the existing implementation to master in  GitLab
+
+Feb 21st
+List of 5 machine learning models with model metrics
+Receiver operating characteristic for all the 5 machine learning model
+Lift chart for all the 5 machine learning model
+
+Feb 22nd
+Worked on the ROC Curve to smothen the curve
+Added some hyper parameters in the machine learning model to smoothen the curve
+Identified the difference in the each ROC curve to compare the machine learning model
+
+Feb 25th
+Mean score of the ROC has been corrected to bring the realistic score
+Lift and Gain chart also added to know the performance of the machine learning model
+Undersood the predicted probability to tweek the dataset a little to bring some difference
+
+Feb 26th
+Review of the created python notebook with statistician to know the outcome
+Outcome analysis has been corrected based on the statistician review
+Request for combined ROC chart from statistician
+
+Feb 27th
+Combined ROC chart for 5 machine learning model has been created for trained dataset
+Combined ROC chart for test dataset has been created
+Reusable python notebook has been created for the statistician
+
+Feb 28th
+Automated script creation for the 5 machine learning algorithm
+Changing the entire script into Model, metric and feature engineering
+Generating the output as images in same project folder
+
+Mar 1st
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
